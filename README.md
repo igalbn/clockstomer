@@ -1,2 +1,2 @@
 # Clockstomer
-Simple clock, writen in Processing
+Simple clock, writen in Processing and p5.
