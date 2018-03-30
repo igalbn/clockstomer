@@ -1,0 +1,32 @@
+/* style for "about clock" by Igal Bronshtein */
+
+body {
+  background-color: ivory;
+
+}
+
+h1 {
+  color: navy;
+
+}
+
+h2 {
+  color: black;
+  margin-bottom: -35px;
+}
+
+p {
+  font-size: 22px;
+  font-family: arial;
+}
+
+#designs_link {
+  font-size: 23px;
+}
+
+/* designs.html */
+
+.design_image {
+  margin: 25px;
+
+}
